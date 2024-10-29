@@ -11,7 +11,7 @@ To verify that it has been install correctly, simply type in the following comma
 sudo systemctl status ssh
 ```
 You should see something familar below: 
-[INSERT PHOTO HERE]
+![alt text](https://github.com/vt-aoe-nanosat-avionics/Rapberry-Pi-SSH/blob/main/Images/Screenshot%20From%202024-10-29%2013-02-27.png)
 
 ## Accessing via Powershell
 Next will be verify that you can access the Pi from your device. In order to do this you need do the following first:
