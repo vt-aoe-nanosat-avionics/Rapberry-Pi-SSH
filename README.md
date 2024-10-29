@@ -11,6 +11,7 @@ To verify that it has been install correctly, simply type in the following comma
 sudo systemctl status ssh
 ```
 You should see something familar below: 
+
 ![alt text](https://github.com/vt-aoe-nanosat-avionics/Rapberry-Pi-SSH/blob/main/Images/Screenshot%20From%202024-10-29%2013-02-27.png)
 
 ## Accessing via Powershell
@@ -24,6 +25,7 @@ Once you have done all the correct information, navigate to Powershell on your W
 ssh (username)@IPV4
 ```
 From here, type in yes to accept and then enter your password associated with the Pi. After doing all of this, you should have been prompted with something like this below:
+
 ![alt text](https://github.com/vt-aoe-nanosat-avionics/Rapberry-Pi-SSH/blob/main/Images/Powershell%20Screenshot.JPG)
 
 This should indicate that you have done this correctly. NOTE: SSH IS SLOW, BUT IT IS BENEFICIAL WHEN YOU WANT TO WORK ON THE PI FROM A DISTANCE.
